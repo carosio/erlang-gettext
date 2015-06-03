@@ -2,3 +2,11 @@ CVS
 .cvsignore
 *.beam
 *.app
+erl_crash.dump
+*.log
+/ebin
+/log
+/tetrapak/.*.cache
+/dist
+/debian
+*~
